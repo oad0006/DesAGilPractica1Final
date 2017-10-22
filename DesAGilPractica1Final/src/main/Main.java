@@ -18,7 +18,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		 System.out.println("Ejecución inicial del sistema");		
-		 
+		 System.out.println("Programador A - Commit 1");
 		  //Instanciar clase de Time
 		 Timer time = new Timer();
 		 String timeString = time.GetHour();
