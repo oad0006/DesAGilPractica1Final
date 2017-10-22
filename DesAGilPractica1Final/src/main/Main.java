@@ -15,7 +15,7 @@ public class Main {
 		 
 		 //Instanciar clase de Time
 		 Timer time = new Timer();
-		 System.out.println("Hora ejecución: "+ time.GetHour() +"\n\n");
+		 System.out.println("Hora ejecución: "+ time.GetHour() +"\n\n"); 
 	}
 
 }

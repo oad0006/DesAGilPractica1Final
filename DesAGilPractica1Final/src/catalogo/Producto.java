@@ -8,7 +8,7 @@ public class Producto {
 	
 	private String _name;
 	
-	private int _quantity;
+	private int _quantity; 
 	
 	/**
 	 * Contructor
